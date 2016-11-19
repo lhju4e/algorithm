@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string.h>
+
 using namespace std;
 
 void m_coloring(int i);
